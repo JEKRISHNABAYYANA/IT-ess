@@ -1,2 +1,2 @@
 # IT-ess
-Go language
+ GIT commands
